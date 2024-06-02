@@ -27,13 +27,8 @@
                 jupytext
                 matplotlib
                 numpy
-                pyscf
-                pytorch-lightning
-                rdkit
                 scikit-image
                 scikit-learn
-                torch
-                torchvision
               ]))
           ];
         };
