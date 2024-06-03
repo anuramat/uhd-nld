@@ -16,6 +16,8 @@ $$
 \end{aligned}
 $$
 
+![](ex6.1.1.png){width=300 height=300}
+
 - $r=0$ - unstable FP
 - $r=1$ - stable LC
 - $r=2$ - unstable LC
@@ -128,6 +130,8 @@ $$
 Thus the flow from the outer border of $R$ also goes into $R \implies R$ 
 contains at least one closed orbit.
 
+![](ex6.1.3_1.png){width=300 height=300}
+
 ## SIR model with demography
 
 $$
@@ -164,6 +168,12 @@ $$
 $$
 
 ### Exercise 2.3
+
+$\mu = 1, \beta = \frac{1}{2}$
+
+![](/home/anuramat/ghq/github.com/anuramat/uhd-nld/ex6/ex6.2.3.png){width=300 height=300}
+
+![](/home/anuramat/ghq/github.com/anuramat/uhd-nld/ex6/ex6.2.3_1.png){width=300 height=300}
 
 ## Lorenz model
 
@@ -207,3 +217,13 @@ $$
 $$
 
 $(0,0,0)$ is stable at $R < R^c_1$ and unstable at $R > R^c_1$.
+
+### Exercise 3.3
+
+$$
+J = \begin{pmatrix}
+-\sigma & \sigma & 0  \\
+R       & -1     & -x  \\
+y       & x      & -b \\
+\end{pmatrix}
+$$
