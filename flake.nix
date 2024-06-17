@@ -29,6 +29,7 @@
                 numpy
                 scikit-image
                 scikit-learn
+                sympy
               ]))
           ];
         };
