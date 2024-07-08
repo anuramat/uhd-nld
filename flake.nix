@@ -30,6 +30,7 @@
                 scikit-image
                 scikit-learn
                 sympy
+                plotly
               ]))
           ];
         };
